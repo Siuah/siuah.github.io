@@ -12,9 +12,9 @@
   header {
     padding: 30px;
     text-align: center;
-    background: rgba(131, 136, 134,.5);
+    background: rgb(255, 255, 255);
     background-image: url(../img/fundo.jpg);
-    color: rgb(26, 9, 9);
+    color: rgb(255, 255, 255);
   }
   
   header h1 {
